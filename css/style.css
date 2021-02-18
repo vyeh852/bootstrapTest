@@ -1,0 +1,89 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+
+.navbar{
+    padding: .6rem;
+}
+
+.navbar-nav li{
+    padding-right: 30px;
+}
+
+.nav-link{
+    font-size: 1.1em;
+}
+
+.carousel-inner img{
+   
+    max-height: 85vh;
+    max-width: 100vw;
+    object-fit: cover;
+    object-position: center 40%;
+    
+}
+
+.btn-primary{
+    background-color: #6648b1;
+}
+
+.padding{
+    padding-bottom: 2rem;
+}
+
+.jumbotron{
+    padding: 1rem;
+    border-radius: 0%;
+}
+.welcome{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem
+}
+.card img{
+   min-height: 330px;
+    object-fit: cover;
+}
+.a{
+    color: black;
+    text-align: left;
+    
+}
+a:hover {
+    color: black;
+    }
+
+ .social a{
+        font-size: 4.5rem;
+        padding: 3rem;
+    }
+
+    .fa-facebook{
+        color: #3b5998;
+    }
+    .fa-twitter{
+        color: #00aced;
+    }
+
+    .fa-google{
+        color: #dd4b39;
+    }
+
+    .fa-instagram{
+        color:#517fa4;
+    }
+    .fa-youtube{
+        color:#bb0000;
+    }
+
+
+    .fa-facebook:hover,
+    .fa-twitter:hover,
+    .fa-google:hover,
+    .fa-instagram:hover,
+    .fa-youtube:hover{
+        color:#d5d5d5;
+    }
